@@ -12,5 +12,6 @@ This project involves the design and development of an interactive HR Analytics 
   
   5. Advanced Data Visualizations: Leveraged Tableau’s capabilities to create dynamic and informative visualizations, delivering comprehensive workforce insights.
 
+Dashboard Link : https://public.tableau.com/app/profile/pratibha.sharma4405/viz/HRDASHBOARD_17295302912380/Dashboard1?publish=yes
 
 <img width="1410" alt="Screenshot 2024-10-22 at 10 49 56 PM" src="https://github.com/user-attachments/assets/f7f50250-e887-4411-a7e9-d85120b38542">
